@@ -1,10 +1,3 @@
-/*
-*
-*
-*       FILL IN EACH FUNCTIONAL TEST BELOW COMPLETELY
-*       -----[Keep the tests in the same order!]-----
-*       
-*/
 
 const chaiHttp = require('chai-http');
 const chai = require('chai');
